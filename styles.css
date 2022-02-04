@@ -77,12 +77,15 @@ a {
     position: absolute;
     top: 50%;
     left: 50%;
+    font-size: x-large;
+    transform:   translate(-50%, -50%); 
 }
 
 .text-bottom-left {
     position: absolute;
     bottom: 8px;
     left: 35px;
+    font-size: larger;
 }
 
 
